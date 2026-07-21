@@ -1,0 +1,17 @@
+# Carpetas de configuración local de IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Archivos compilados de Java
+*.class
+
+# Carpetas de construcción (si usas Gradle/Maven)
+build/
+target/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
